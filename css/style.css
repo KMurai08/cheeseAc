@@ -30,7 +30,7 @@ body {
 }
 
 .title_box {
-	background: url(/img/mainbg.png);
+	background: url("https://github.com/KMurai08/cheeseAc/blob/main/img/mainbg.png?raw=true");
 	background-size: cover;
 	background-position: center;
 	height: 330px;
